@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>9.0</LangVersion>
+    <_TargetFrameworkDirectories>non_empty_path_generated_by_unity.rider.package</_TargetFrameworkDirectories>
+    <_FullFrameworkReferenceAssemblyPaths>non_empty_path_generated_by_unity.rider.package</_FullFrameworkReferenceAssemblyPaths>
+    <DisableHandlePackageFileConflicts>true</DisableHandlePackageFileConflicts>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{0177e04c-4f13-d09d-f36c-f385bb4d61df}</ProjectGuid>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>.</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\Bin\Debug\Unity.Rider.Editor\</OutputPath>
+    <DefineConstants>UNITY_EDITOR</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169,0649</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Library\PackageCache\com.unity.settings-manager@41738c275190\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture\package.json" />
+    <None Include="Library\PackageCache\com.unity.inputsystem@978211393e28\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile-2-Pass.shader" />
+    <None Include="Library\PackageCache\com.unity.inputsystem@978211393e28\ValidationConfig.json" />
+    <None Include="Library\PackageCache\com.unity.ugui@529b01454a55\package.json" />
+    <None Include="Library\PackageCache\com.unity.ext.nunit@031a54704bff\package.json" />
+    <None Include="Library\PackageCache\com.cysharp.unitask@e602fc8de550\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap\package.json" />
+    <None Include="Library\PackageCache\com.unity.timeline@c58b4ee65782\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.accessibility\package.json" />
+    <None Include="Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13\ValidationConfig.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Library\PackageCache\com.unity.visualscripting@6279e2b7c485\package.json" />
+    <None Include="Library\PackageCache\com.unity.editorcoroutines@7d48783e7b8c\package.json" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f\package.json" />
+    <None Include="Library\PackageCache\com.unity.ugui@529b01454a55\PackageConversionData.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle\package.json" />
+    <None Include="Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion\package.json" />
+    <None Include="Library\PackageCache\com.unity.feature.development@767aadbc6eb7\package.json" />
+    <None Include="Library\PackageCache\com.cysharp.messagepipe.vcontainer@121f320bba29\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics\package.json" />
+    <None Include="Library\PackageCache\com.unity.ide.rider@4d374c7eb6db\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\SDFFunctions.hlsl" />
+    <None Include="Library\PackageCache\com.unity.ide.rider@4d374c7eb6db\ValidationExceptions.json" />
+    <None Include="Library\PackageCache\com.unity.test-framework@dfdbd02f5918\package.json" />
+    <None Include="Library\PackageCache\com.unity.performance.profile-analyzer@a68e7bc84997\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr\package.json" />
+    <None Include="Library\PackageCache\com.unity.visualscripting@6279e2b7c485\ValidationExceptions.json" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Library\PackageCache\com.unity.ide.visualstudio@198cdf337d13\ValidationExceptions.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Library\PackageCache\com.unity.inputsystem@978211393e28\ValidationExceptions.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles\package.json" />
+    <None Include="Library\PackageCache\com.cysharp.messagepipe@ca65f3df74dc\package.json" />
+    <None Include="Library\PackageCache\com.unity.testtools.codecoverage@205a02cbcb39\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww\package.json" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.hierarchycore\package.json" />
+    <None Include="Library\PackageCache\com.unity.ugui@529b01454a55\Editor Resources\Shaders\TMP_SDF_SSD.cginc" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@c854d1f7d97f\ValidationConfig.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr\package.json" />
+    <None Include="Library\PackageCache\com.unity.ugui@529b01454a55\Editor Resources\Shaders\TMP_Properties.cginc" />
+    <None Include="Library\PackageCache\com.unity.settings-manager@41738c275190\ValidationExceptions.json" />
+    <None Include="Library\PackageCache\com.unity.ugui@529b01454a55\Editor Resources\Shaders\TMP_SDF Internal Editor.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director\package.json" />
+    <None Include="Library\PackageCache\com.unity.visualscripting@6279e2b7c485\ValidationConfig.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Library\PackageCache\jp.hadashikick.vcontainer@8c70d0b94b30\package.json" />
+    <None Include="Library\PackageCache\com.unity.ugui@529b01454a55\PackageConversionData_Assets.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation\package.json" />
+    <None Include="Assets\dgvf.uxml" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest\package.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements\package.json" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne.json" />
+    <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui\package.json" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+    <None Include="Library\PackageCache\com.unity.multiplayer.center@f3fb577b3546\package.json" />
+    <Reference Include="UnityEngine">
+      <HintPath>D:\6000.0.55f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>D:\6000.0.55f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>D:\6000.0.55f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
