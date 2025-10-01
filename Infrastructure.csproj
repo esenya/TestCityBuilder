@@ -52,6 +52,18 @@
       <HintPath>D:\6000.0.55f1\Editor\Data\Managed\UnityEngine\UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Scripts\Infrastructure\Bootstraper.cs" />
+    <Compile Include="Assets\Scripts\Infrastructure\BuildingManager.cs" />
+    <Compile Include="Assets\Scripts\Infrastructure\MessagePipeEventPublisher.cs" />
+    <Compile Include="Assets\Scripts\Infrastructure\PlayerManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Scripts\Infrastructure\Bootstraper.cs.meta" />
+    <Content Include="Assets\Scripts\Infrastructure\BuildingManager.cs.meta" />
+    <Content Include="Assets\Scripts\Infrastructure\MessagePipeEventPublisher.cs.meta" />
+    <Content Include="Assets\Scripts\Infrastructure\PlayerManager.cs.meta" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -1,6 +1,8 @@
-﻿namespace Domain
+﻿using Domain;
+
+namespace Infrastructure
 {
-    public class Player
+    public class PlayerManager : IPlayerManager
     {
         private int _money = 200;
         public int Money => _money;
@@ -18,7 +20,7 @@
             }
             else
             {
-                //недостаточно денег
+                // todo: log, warning
             }
         }
     }

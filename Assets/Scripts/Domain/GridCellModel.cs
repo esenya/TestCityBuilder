@@ -1,8 +1,6 @@
-﻿using UnityEngine;
-
-namespace Domain
+﻿namespace Domain
 {
-    public class GridCell
+    public class GridCellModel
     {
         public int PosX;
         public int PosY;
@@ -10,7 +8,7 @@ namespace Domain
         
         public bool IsAvailable => BuildingType == BuildingType.None;
 
-        public GridCell(int x, int y, BuildingType buildingType)
+        public GridCellModel(int x, int y, BuildingType buildingType)
         {
             PosX = x;
             PosY = y;

@@ -3,6 +3,7 @@ UserSettings/
 
 # Build results
 /Library/
+/Logs/
 /Temp/
 /Obj/
 /Build/
@@ -13,6 +14,7 @@ UserSettings/
 .vscode/
 *.sln
 *.userprefs
+*.csproj
 
 # Unity3D generated meta files
 *.pidb

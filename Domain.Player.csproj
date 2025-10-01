@@ -46,13 +46,11 @@
     <Analyzer Include="D:\6000.0.55f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Domain\BuildingCreatedMessage.cs" />
-    <Compile Include="Assets\Scripts\Domain\Player.cs" />
+    <Compile Include="Assets\Scripts\Domain\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\Domain\BuildingType.cs" />
-    <Compile Include="Assets\Scripts\Domain\Building.cs" />
+    <Compile Include="Assets\Scripts\Domain\BuildingModel.cs" />
     <Compile Include="Assets\Scripts\Domain\BuildingManager.cs" />
-    <Compile Include="Assets\Scripts\Domain\GridManager.cs" />
-    <Compile Include="Assets\Scripts\Domain\GridCell.cs" />
+    <Compile Include="Assets\Scripts\Domain\GridCellModel.cs" />
     <Reference Include="UnityEngine">
       <HintPath>D:\6000.0.55f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\Variations\mono\Managed\UnityEngine.dll</HintPath>
     </Reference>

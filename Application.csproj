@@ -46,10 +46,6 @@
     <Analyzer Include="D:\6000.0.55f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Application\RemoveBuildingUseCase.cs" />
-    <Compile Include="Assets\Scripts\Application\CreateBuildingUseCase.cs" />
-    <Compile Include="Assets\Scripts\Application\UpgradeBuildingUseCase.cs" />
-    <Compile Include="Assets\Scripts\Application\MoveBuildingUseCase.cs" />
     <None Include="Assets\Scripts\Application\Application.asmdef" />
     <Reference Include="UnityEngine">
       <HintPath>D:\6000.0.55f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

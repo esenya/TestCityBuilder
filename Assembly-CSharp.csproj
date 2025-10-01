@@ -125,7 +125,6 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation\package.json" />
-    <None Include="Assets\dgvf.uxml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest\package.json" />
     <None Include="D:\6000.0.55f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements\package.json" />
